@@ -1,2 +1,2 @@
 # Data-Analysis-with-Python
-This paper investigates student awareness and acceptance of blockchain-based authentication frameworks for IoT applications. Using a survey of 100 students, it explores how perceived usefulness, ease of use, and security influence their willingness to adopt blockchain authentication in IoT environments.
+This repository contains Python programs developed in Jupyter Notebook for data analysis and machine learning. It includes datasets, data preprocessing, visualization, model development, evaluation, and well documented code to help students, researchers, and developers understand the complete workflow.

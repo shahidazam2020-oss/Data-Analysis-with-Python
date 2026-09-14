@@ -149,7 +149,7 @@ A practical analysis project based on healthcare data.
 
 ### 🛒 Superstore Data Analysis
 
-A business focused data analysis project using Superstore sales data.
+*A business focused data analysis project using Superstore sales data.*
 
 **Included files**
 

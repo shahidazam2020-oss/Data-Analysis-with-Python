@@ -344,7 +344,7 @@ To Meaningful Insights
 
 *This isn't only a collection of notebooks.*
 
-It represents a practical journey from raw data to meaningful insights using Python.
+*It represents a practical journey from raw data to meaningful insights using Python.*
 
 The projects focus on learning by working with different types of datasets, including environmental, healthcare, and business data.
 

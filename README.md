@@ -278,12 +278,22 @@ To Meaningful Insights
 📌 Communicate analytical findings
 
 # 💻 Getting Started
-
-1️⃣ Clone the Repository git clone https://github.com/shahidazam2020-oss/Data-Analysis-with-Python.git
+<td>
+ 1️⃣ Clone the Repository git clone https://github.com/shahidazam2020-oss/Data-Analysis-with-Python.git 
+</td>
+<td>
 2️⃣ Open the Project cd Data-Analysis-with-Python
-3️⃣ Install Required Libraries pip install pandas numpy matplotlib seaborn jupyter
-4️⃣ Launch Jupyter Notebook jupyter notebook
-5️⃣ Select a Project
+</td>
+<td>
+  3️⃣ Install Required Libraries pip install pandas numpy matplotlib seaborn jupyter
+</td>
+<td>
+  4️⃣ Launch Jupyter Notebook jupyter notebook
+</td>
+<td>
+   Select a Project
+</td>
+5️⃣
 
 Choose any of the available notebooks and run the analysis cells.
 

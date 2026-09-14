@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>📈 A practical collection of Python based data analysis projects</b>
+  <b>📈 A practical collection of Python based data analysis projects </b>
 </p>
 
 <p align="center">

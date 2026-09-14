@@ -322,7 +322,7 @@ To Meaningful Insights
 
 # 🎯 Learning Objectives
 
-The projects in this repository are designed to build practical experience in:
+*The projects in this repository are designed to build practical experience in:*
 
 📌 Understanding real world datasets
 

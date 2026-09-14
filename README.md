@@ -52,7 +52,7 @@
 
 ### 🌡️ Global Temperature
 
-Analysis of global temperature trends and geographical differences.
+*Analysis of global temperature trends and geographical differences.*
 
 📄 Notebook  
 🌍 Country Dataset  

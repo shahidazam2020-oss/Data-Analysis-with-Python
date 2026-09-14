@@ -118,7 +118,7 @@ A data analysis project focused on understanding temperature patterns across dif
 * Visualization
 * Statistical observations
 
-👉 [📘 Open Global Temperature Notebook](Global%20Temperature%20%20Copy.ipynb)
+👉 [📘 Open Global Temperature Notebook](https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/Global%20Temperature%20-%20Copy.ipynb)
 
 ---
 

@@ -278,9 +278,9 @@ To Meaningful Insights
 📌 Communicate analytical findings
 
 # 💻 Getting Started
-<td>
+<br>
  1️⃣ Clone the Repository git clone https://github.com/shahidazam2020-oss/Data-Analysis-with-Python.git 
-</td>
+</br>
 <td>
 2️⃣ Open the Project cd Data-Analysis-with-Python
 </td>

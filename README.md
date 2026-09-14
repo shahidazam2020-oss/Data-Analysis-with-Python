@@ -305,6 +305,7 @@ To Meaningful Insights
 ├── 📘 Health Care  Copy.ipynb
 ├── 📘 Superstore  Copy.ipynb
 </br>
+<br>
 │
 ├── 🌍 GlobalLandTemperaturesByCountry.csv
 ├── 🗺️ GlobalLandTemperaturesByState.csv
@@ -313,9 +314,14 @@ To Meaningful Insights
 ├── 🛒 superstore.csv
 │
 └── 📄 README.md
-📊 Analysis Categories
+</br>
+
+---
+
+# 📊 Analysis Categories
 <table> <tr> <th>Category</th> <th>Project</th> <th>Main Focus</th> </tr> <tr> <td>🌍 Environment</td> <td>Global Temperature</td> <td>Temperature trends and geographical patterns</td> </tr> <tr> <td>🏥 Healthcare</td> <td>Healthcare Analysis</td> <td>Healthcare data exploration and visualization</td> </tr> <tr> <td>🛒 Business</td> <td>Superstore Analysis</td> <td>Sales, profit, customers, and products</td> </tr> </table>
-🎯 Learning Objectives
+
+# 🎯 Learning Objectives
 
 The projects in this repository are designed to build practical experience in:
 

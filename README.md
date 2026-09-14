@@ -245,6 +245,7 @@ Outlier detection
 Pattern discovery
 Insight generation
 
+---
 # 📈 What This Repository Demonstrates
 
 This repository demonstrates the complete process of converting raw datasets into meaningful information.

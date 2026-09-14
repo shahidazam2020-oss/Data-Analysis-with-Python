@@ -281,18 +281,18 @@ To Meaningful Insights
 <br>
  1️⃣ Clone the Repository git clone https://github.com/shahidazam2020-oss/Data-Analysis-with-Python.git 
 </br>
-<td>
+<br>
 2️⃣ Open the Project cd Data-Analysis-with-Python
-</td>
-<td>
+</br>
+<br>
   3️⃣ Install Required Libraries pip install pandas numpy matplotlib seaborn jupyter
-</td>
-<td>
+</br>
+<br>
   4️⃣ Launch Jupyter Notebook jupyter notebook
-</td>
-<td>
+</br>
+<br>
    Select a Project
-</td>
+</br>
 5️⃣
 
 Choose any of the available notebooks and run the analysis cells.

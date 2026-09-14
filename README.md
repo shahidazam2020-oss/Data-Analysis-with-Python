@@ -95,7 +95,7 @@ Business analysis using sales and customer transaction data.
 
 ### 🌡️ Global Temperature Analysis
 
-A data analysis project focused on understanding temperature patterns across different geographical regions.
+*A data analysis project focused on understanding temperature patterns across different geographical regions.*
 
 **Included files**
 

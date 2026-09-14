@@ -342,7 +342,7 @@ To Meaningful Insights
 
 # 🌟 Why This Repository?
 
-This isn't only a collection of notebooks.
+*This isn't only a collection of notebooks.*
 
 It represents a practical journey from raw data to meaningful insights using Python.
 

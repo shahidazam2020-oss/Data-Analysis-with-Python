@@ -292,8 +292,7 @@ To Meaningful Insights
   4️⃣ Launch Jupyter Notebook jupyter notebook
 </br>
 <br>
-   Select a Project
-5️ Choose any of the available notebooks and run the analysis cells.
+5️ Select a Project Choose any of the available notebooks and run the analysis cells.
 </br>
 
 ---

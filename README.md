@@ -168,7 +168,7 @@ A business focused data analysis project using Superstore sales data.
 * Data visualization
 * Business insights
 
-👉 [📘 Open Superstore Notebook](Superstore%20%20Copy.ipynb)
+👉 [📘 Open Superstore Notebook](https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/Superstore%20-%20Copy.ipynb)
 
 ---
 

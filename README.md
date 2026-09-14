@@ -143,7 +143,7 @@ A practical analysis project based on healthcare data.
 * Pattern identification
 * Insight generation
 
-👉 [📘 Open Healthcare Notebook](Health%20Care%20%20Copy.ipynb)
+👉 [📘 Open Healthcare Notebook](https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/Health%20Care%20-%20Copy.ipynb)
 
 ---
 

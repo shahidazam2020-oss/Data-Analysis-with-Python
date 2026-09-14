@@ -248,7 +248,7 @@ Insight generation
 ---
 # 📈 What This Repository Demonstrates
 
-This repository demonstrates the complete process of converting raw datasets into meaningful information.
+*This repository demonstrates the complete process of converting raw datasets into meaningful information.*
 
 From Raw Data
 Raw Dataset

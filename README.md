@@ -236,7 +236,7 @@ Box plots
 Distribution analysis
 Comparative visualization
 
-# 🔎 Exploratory Data Analysis
+## 🔎 Exploratory Data Analysis
 Dataset exploration
 Statistical summaries
 Correlation analysis

@@ -351,7 +351,7 @@ It represents a practical journey from raw data to meaningful insights using Pyt
 The projects focus on learning by working with different types of datasets, including environmental, healthcare, and business data.
 
 # 🔗 Quick Navigation
-<table> <tr> <td align="center"> <a href="Global%20Temperature%20%20Copy.ipynb"> 🌡️<br> <b>Global Temperature</b> </a> </td> <td align="center"> <a href="Health%20Care%20%20Copy.ipynb"> 🏥<br> <b>Healthcare</b> </a> </td> <td align="center"> <a href="Superstore%20%20Copy.ipynb"> 🛒<br> <b>Superstore</b> </a> </td> </tr> </table>
+<table> <tr> <td align="center"> <a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/GlobalTemperatures.csv"> 🌡️<br> <b>Global Temperature</b> </a> </td> <td align="center"> <a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/healthcare-2016.csv"> 🏥<br> <b>Healthcare</b> </a> </td> <td align="center"> <a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/superstore.csv"> 🛒<br> <b>Superstore</b> </a> </td> </tr> </table>
 
 ---
 

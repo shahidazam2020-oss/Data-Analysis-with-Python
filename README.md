@@ -27,7 +27,7 @@
 
 ## 🧭 Repository Overview
 
-This repository contains practical **Data Analysis with Python** projects developed using real world datasets.
+*This repository contains practical **Data Analysis with Python** projects developed using real world datasets.*
 
 The main purpose is to understand raw data, clean and transform it, perform exploratory analysis, create visualizations, and extract useful insights from datasets.
 

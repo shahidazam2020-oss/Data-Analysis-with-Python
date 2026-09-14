@@ -292,11 +292,10 @@ To Meaningful Insights
 </br>
 <br>
    Select a Project
+5️ Choose any of the available notebooks and run the analysis cells.
 </br>
-5️⃣
 
-Choose any of the available notebooks and run the analysis cells.
-
+---
 📁 Repository Structure
 📦 Data Analysis with Python
 │

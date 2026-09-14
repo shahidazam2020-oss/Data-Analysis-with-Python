@@ -339,7 +339,9 @@ The projects in this repository are designed to build practical experience in:
 
 📌 Using Python for practical data analysis
 
-🌟 Why This Repository?
+---
+
+# 🌟 Why This Repository?
 
 This isn't only a collection of notebooks.
 
@@ -347,47 +349,64 @@ It represents a practical journey from raw data to meaningful insights using Pyt
 
 The projects focus on learning by working with different types of datasets, including environmental, healthcare, and business data.
 
-🔗 Quick Navigation
+# 🔗 Quick Navigation
 <table> <tr> <td align="center"> <a href="Global%20Temperature%20%20Copy.ipynb"> 🌡️<br> <b>Global Temperature</b> </a> </td> <td align="center"> <a href="Health%20Care%20%20Copy.ipynb"> 🏥<br> <b>Healthcare</b> </a> </td> <td align="center"> <a href="Superstore%20%20Copy.ipynb"> 🛒<br> <b>Superstore</b> </a> </td> </tr> </table>
-👨‍💻 About the Author
-Shahid Azam
 
-🎓 MS Computer Science Student
+---
 
-🤖 AI and Machine Learning Enthusiast
+# 👨‍💻 About Me
 
-📊 Data Analysis and Visualization
+## Shahid Azam
 
-🐍 Python Developer
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
 
-💻 IT Support Specialist
+*Institute of Management Sciences, Peshawar, Pakistan*
 
-🔬 Computer Science Researcher
+### Areas of Interest
 
-📍 Chitral, Pakistan
+• Artificial Intelligence
+• Machine Learning
+• Deep Learning
+• Natural Language Processing
+• Data Analysis
+• Data Visualization
+• EEG Signal Analysis
 
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/shahidazam2020-oss"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
-⭐ Support
+---
 
-If you find this repository useful, consider giving it a ⭐
-
-Your feedback and suggestions are always welcome.
+# 🤝 Connect With Me
 
 <p align="center">
-📊 Turning Data Into Insights With Python 🐍
 
-<b>Explore • Analyze • Visualize • Understand</b>
+<a href="https://github.com/shahidazam2020-oss">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</p> ```
-One important point
+<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-The README above is designed around the actual files visible in your screenshot, rather than making the repository look like it contains projects that aren't there.
+<a href="mailto:shahidazam2020@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I would especially recommend keeping these three sections prominent:
+</p>
 
-📊 Project Dashboard
+---
 
-🚀 Featured Projects
+# ⭐ Support
 
-📈 Analysis Categories
+If you find this repository useful for learning Machine Learning, consider giving it a ⭐.
+
+Your feedback, suggestions, and contributions are welcome.
+
+---
+
+<p align="center">
+  <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
+</p>
+
+<p align="center">
+  Made with ❤️ for learning, experimentation, and continuous improvement.
+</p>

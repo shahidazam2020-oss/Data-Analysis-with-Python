@@ -124,7 +124,7 @@ Business analysis using sales and customer transaction data.
 
 ### 🏥 Healthcare Data Analysis
 
-A practical analysis project based on healthcare data.
+*A practical analysis project based on healthcare data.*
 
 **Included files**
 

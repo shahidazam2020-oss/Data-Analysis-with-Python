@@ -227,7 +227,7 @@ Data transformation
 Missing value handling
 Data type conversion
 
-# 📊 Data Visualization
+## 📊 Data Visualization
 Bar charts
 Line charts
 Histograms

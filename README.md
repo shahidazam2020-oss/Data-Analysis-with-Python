@@ -296,12 +296,15 @@ To Meaningful Insights
 </br>
 
 ---
-📁 Repository Structure
-📦 Data Analysis with Python
+# 📁 Repository Structure
+
+## 📦 Data Analysis with Python
+<br>
 │
 ├── 📘 Global Temperature  Copy.ipynb
 ├── 📘 Health Care  Copy.ipynb
 ├── 📘 Superstore  Copy.ipynb
+</br>
 │
 ├── 🌍 GlobalLandTemperaturesByCountry.csv
 ├── 🗺️ GlobalLandTemperaturesByState.csv

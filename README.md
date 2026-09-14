@@ -206,17 +206,19 @@ A business focused data analysis project using Superstore sales data.
 
 ```
 ---
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 <table> <tr> <td align="center">🐍<br><b>Python</b></td> <td align="center">🐼<br><b>Pandas</b></td> <td align="center">🔢<br><b>NumPy</b></td> <td align="center">📊<br><b>Matplotlib</b></td> <td align="center">📈<br><b>Seaborn</b></td> <td align="center">📓<br><b>Jupyter</b></td> </tr> </table>
-🧠 Skills Demonstrated
-🐍 Python Programming
+
+## 🧠 Skills Demonstrated
+## 🐍 Python Programming
 Python fundamentals
 Functions
 Lists and dictionaries
 Data structures
 File handling
 Analytical programming
-🐼 Data Processing
+
+# 🐼 Data Processing
 Pandas
 NumPy
 DataFrame operations
@@ -224,7 +226,8 @@ Data filtering
 Data transformation
 Missing value handling
 Data type conversion
-📊 Data Visualization
+
+# 📊 Data Visualization
 Bar charts
 Line charts
 Histograms
@@ -232,7 +235,8 @@ Scatter plots
 Box plots
 Distribution analysis
 Comparative visualization
-🔎 Exploratory Data Analysis
+
+# 🔎 Exploratory Data Analysis
 Dataset exploration
 Statistical summaries
 Correlation analysis
@@ -240,7 +244,8 @@ Trend identification
 Outlier detection
 Pattern discovery
 Insight generation
-📈 What This Repository Demonstrates
+
+# 📈 What This Repository Demonstrates
 
 This repository demonstrates the complete process of converting raw datasets into meaningful information.
 

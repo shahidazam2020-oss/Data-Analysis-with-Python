@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="#-projects">Projects</a> •
-  <a href="#-datasets">Datasets</a> •
+  <a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/Superstore%20-%20Copy.ipynb">Projects</a> •
+  <a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/superstore.csv">Datasets</a> •
   <a href="#-workflow">Workflow</a> •
   <a href="#-skills">Skills</a> •
   <a href="#-getting-started">Getting Started</a>

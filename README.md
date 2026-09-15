@@ -172,6 +172,7 @@ Business analysis using sales and customer transaction data.
 * Business insights
 
 👉 [📘 Open Superstore Notebook](https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/Superstore%20-%20Copy.ipynb)
+👉 [📘 Open Superstore Dataset](https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/superstore.csv)
 
 ---
 

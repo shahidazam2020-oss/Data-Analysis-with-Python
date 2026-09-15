@@ -12,8 +12,7 @@
 </p>
 
 <p align="center">
-  
- *Exploring real world datasets through data cleaning, statistical analysis, visualization, and meaningful insights.*
+  Exploring real world datasets through data cleaning, statistical analysis, visualization, and meaningful insights.
 </p>
 
 <p align="center">

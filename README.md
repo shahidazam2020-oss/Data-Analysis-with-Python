@@ -119,7 +119,7 @@ Business analysis using sales and customer transaction data.
 * Statistical observations
 
 👉 [📘 Open Global Temperature Notebook](https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/Global%20Temperature%20-%20Copy.ipynb)
-👉 [📘 Open Global Temperature Dataset](https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/GlobalTemperatures.csv)
+👉 [📘 Open Global Temperature Dataset By Land](https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/blob/master/GlobalTemperatures.csv)
 
 
 ---

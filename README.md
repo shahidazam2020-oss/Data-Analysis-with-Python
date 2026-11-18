@@ -1,3 +1,7 @@
+<p align="center">
+
+
+
 # 📊 Data Analysis with Python
 
 <p align="center">

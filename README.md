@@ -5,6 +5,11 @@
 <a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/forks">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Data-Analysis-with-Python?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
+   <a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Data-Analysis-with-Python?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
+
+  </p>
 
 # 📊 Data Analysis with Python
 

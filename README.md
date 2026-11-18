@@ -2,7 +2,9 @@
 <a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Data-Analysis-with-Python?style=social&cacheSeconds=60" alt="GitHub Stars">
   </a>
-
+<a href="https://github.com/shahidazam2020-oss/Data-Analysis-with-Python/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Data-Analysis-with-Python?style=social&cacheSeconds=60" alt="GitHub Forks">
+  </a>
 
 # 📊 Data Analysis with Python
 

@@ -78,7 +78,7 @@
 
 ### 🏥 Healthcare
 
-*Exploration and analysis of healthcare data to discover useful patterns and relationships.*
+**Exploration and analysis of healthcare data to discover useful patterns and relationships.**
 
 📄 Notebook  
 📊 Healthcare Dataset  

@@ -108,7 +108,7 @@ This repository contains practical **Data Analysis with Python** projects develo
 
 ### 🌡️ Global Temperature Analysis
 
-*A data analysis project focused on understanding temperature patterns across different geographical regions.*
+**A data analysis project focused on understanding temperature patterns across different geographical regions.**
 
 **Included files**
 

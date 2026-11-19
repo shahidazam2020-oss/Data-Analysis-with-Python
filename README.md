@@ -91,7 +91,7 @@
 
 ### 🛒 Superstore
 
-Business analysis using sales and customer transaction data.
+**Business analysis using sales and customer transaction data.**
 
 📄 Notebook  
 🛍️ Superstore Dataset  

@@ -422,10 +422,6 @@ Institute of Management Sciences, Peshawar, Pakistan
 
 ---
 
-<p align="center">
-  <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
-</p>
-
 # ⭐ If You Find This Project Useful
 
 If this project helps you understand machine learning for healthcare prediction, consider:
@@ -440,6 +436,11 @@ If this project helps you understand machine learning for healthcare prediction,
 
 🤝 **Contributing improvements**
 
+---
+
+<p align="center">
+  <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
+</p>
 
 <p align="center">
   Made with ❤️ for learning, experimentation, and continuous improvement.

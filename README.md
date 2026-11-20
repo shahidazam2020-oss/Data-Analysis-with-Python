@@ -436,6 +436,8 @@ If this project helps you understand machine learning for healthcare prediction,
 
 🐛 **Opening an issue**
 
+💡 **Sharing suggestions**
+
 
 <p align="center">
   Made with ❤️ for learning, experimentation, and continuous improvement.

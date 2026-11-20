@@ -432,6 +432,8 @@ If this project helps you understand machine learning for healthcare prediction,
 
 ⭐ **Starring the repository**
 
+🍴 **Forking the project**
+
 
 <p align="center">
   Made with ❤️ for learning, experimentation, and continuous improvement.

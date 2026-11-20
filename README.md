@@ -430,6 +430,8 @@ Institute of Management Sciences, Peshawar, Pakistan
 
 If this project helps you understand machine learning for healthcare prediction, consider:
 
+⭐ **Starring the repository**
+
 
 <p align="center">
   Made with ❤️ for learning, experimentation, and continuous improvement.
